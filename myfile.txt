@@ -1,1 +1,1 @@
-This is the newly editied file.
+This is GIT pull example.
