@@ -1,1 +1,1 @@
-Try checkout example
+This is GIT pull example 4.
